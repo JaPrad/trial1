@@ -1,1 +1,0 @@
-function pointCoord(){stroke(255,0,0),line(mouseX,0,mouseX,height),line(0,mouseY,width,mouseY),mouseIsPressed&&console.log(`x = ${mouseX}, y = ${mouseY}`)}
